@@ -10,7 +10,7 @@ Tutorial on how this bounce effect was achieved can be found [here](http://iostu
 
 ## Requirements
 * Xcode 7 or higher
-* iOS 8.0 or higher (may work on previous versions, just did not test it)
+* iOS 7.0 or higher
 * ARC
 * Swift 2.0
 
